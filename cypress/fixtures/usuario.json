@@ -1,0 +1,20 @@
+[
+    {
+        "email":"isabellalopes@gmail.com",
+        "fullName":"Isabella Lopes",
+        "userName":"isabella",
+        "password":"isabella123"
+    },
+    {
+        "email":"camilalopes@gmail.com",
+        "fullName":"Camilla Lopes",
+        "userName":"camilla",
+        "password":"camilla123"
+    },
+    {
+        "email":"taciozava@gmail.com",
+        "fullName":"Tacio Zava",
+        "userName":"tacio",
+        "password":"tacio123"
+    }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Primeiro Projeto com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Tácio Zava",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0",
+    "mochawesome": "^7.1.3"
+  }
+}
